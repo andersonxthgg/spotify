@@ -1,3 +1,12 @@
 body {
     background-color: #000000;
 }
+h1 {
+    color: #ffffff;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: relative;
+    height: 40px;
+    width: 200px;
+    background-color: #000000;
+    left: 670px;
+}
