@@ -1,0 +1,30 @@
+body {
+    background-color: #000000;
+
+}
+/*para posicionar uma das formas e usando o position: relative; assim conseguimos usar o right e left definindo de esquerda a direita*/
+.title {
+    color: #ffffff;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: relative;
+    height: 40px;
+    width: 200px;
+    background-color: #000000;
+    left: 670px;
+    
+}
+/*o width e o height definem o tamanho ou a espessura e sempre sera em formar retas tipo um quadrado ode ser utilizado para criar sessões do site*/
+#spotico {
+    background-color: #000000;
+    width: 50px;
+    height: 50px;
+    position: relative;
+    left: 700px;
+    padding: 40px;
+}
+input {
+    background-color: #000000;
+    border-color: #ffffff;
+    width: 300;
+    height: 300;
+}
