@@ -1,10 +1,42 @@
 body {
-    background-color: #000000;
+    background-color: #121212;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 h1 {
     color: #ffffff;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     position: absolute;
-    left: 500px;
+    left: 350px;
     padding: 200px;
+}
+
+#logo {
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    left: 700px;
+    padding: ;
+}
+
+#google {
+    height: 20px;
+    width: 20px;
+}
+#btm {
+    background-color: #121212;
+    color: #ffffff;
+    border-radius: 25;
+}
+input {
+    position: static;
+    left: 680px;
+    background-color: #121212;
+}
+#continue {
+    background-color: #1ed760;
+    color: #121212;
+    width: 100px;
+    height: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
 }
