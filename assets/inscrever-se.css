@@ -28,8 +28,9 @@ h1 {
     border-radius: 25;
 }
 input {
-    position: static;
-    left: 680px;
+    position: fixed;
+    left: 600px;
+    pa
     background-color: #121212;
 }
 #continue {
