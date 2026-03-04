@@ -20,8 +20,12 @@ h1 {
 
 #google {
     height: 20px;
-    width: 20px;
-} 
+    width: 20px;#btm {
+/*    background-color: #121212;
+    color: #ffffff;
+    border-radius: 25;
+    border: 1px solid rgb(99, 100, 101);*/
+}
 #btm {
     background-color: #121212;
     color: #ffffff;
@@ -35,6 +39,8 @@ h1 {
     color: white;
     transform: scale(1.05);
 }
+}
+
 
 input {
     background-color: #121212;
@@ -58,6 +64,38 @@ input:hover {
     border-radius: 30px;
     color: #121212;
     margin-top: 10px;
-    
+    width: 280px;
+    height: 40px;
+
+}
+#continue:hover {
+    background-color: #60f093;
 }
 
+#apple {
+    background-color: #121212;
+    color: #ffffff;
+    border-radius: 25px;
+    border: 1px solid rgb(99, 100, 101);
+    width: 280px;
+    height: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;    
+}
+
+#apple:hover {
+    background-color: #121212;
+    border-color: rgb(255, 255, 255);
+    color: white;
+    transform: scale(1.05);
+}
+
+#appleimg {
+    height: 20px;
+    width: 20px;#btm {
+    background-color: #121212;
+    color: #ffffff;
+    border-radius: 25;
+    border: 1px solid rgb(99, 100, 101);
+    
+}
+}
