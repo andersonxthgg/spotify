@@ -3,6 +3,13 @@ body {
     padding: 0;
     background-color: #000000;
 }
+#icon {
+    width: 32px;
+    height: 32px;
+    display: block;
+    margin-right: 12px;
+    padding: 3px;
+}
 ul {
     list-style-type: none;
     margin: 0;
