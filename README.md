@@ -1,19 +1,6 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  
-</head>
-<body>
-
 
 <a href="https://andersonxthgg.github.io/spotify">
   <button style="font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; color: red;">
-    Clique aqui
+    link_Site
   </button>
-</a>
-
-</a>
-</body>
-
-
-</html>
+<img src="p" alt="Trulli" width="50px" height="33px">
